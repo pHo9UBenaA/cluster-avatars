@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Meta
   m_EditorClassIdentifier: 
   ExporterVersion: UniVRM-0.125.0
-  Title: Lowpoly Astronaut
+  Title: Astronaut
   Version: 0.1
   Author: PULSAR BYTES
   ContactInformation: 
-  Reference: https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/stylized-astronaut-114298
+  Reference: 
   Thumbnail: {fileID: 0}
   AllowedUser: 0
   ViolentUssage: 0
